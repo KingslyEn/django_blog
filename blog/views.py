@@ -10,9 +10,9 @@ posts = [
         'date_posted': '24 October 2021'
     },
     {
-        'author': 'Rj009',
-        'title': 'Sec one fro RJ',
-        'content': 'Yo yo, and the is the sec one from rj.',
+        'author': 'SNB78',
+        'title': 'Second post from SNB',
+        'content': 'Yo yo, and this is the second post from SNB.',
         'date_posted': '1 July 2022'
     }
 ]
